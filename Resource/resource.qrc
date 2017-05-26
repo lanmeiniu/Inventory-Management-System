@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qm">
+        <file>spreadsheet.qm</file>
+    </qresource>
+</RCC>

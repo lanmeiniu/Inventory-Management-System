@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/iniFile">
+        <file>ywgroup.ini</file>
+    </qresource>
+</RCC>
